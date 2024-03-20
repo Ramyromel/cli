@@ -1,5 +1,23 @@
 # Changelog
 
+## [10.5.1](https://github.com/npm/cli/compare/v10.5.0...v10.5.1) (2024-03-20)
+
+### Bug Fixes
+
+* [`9d4e85f`](https://github.com/npm/cli/commit/9d4e85f2379eded50b54f4e0b6f307031037f1ec) [#7297](https://github.com/npm/cli/pull/7297) search: include searchlimit option in help output (#7297) (@10xLaCroixDrinker)
+* [`bdb3c28`](https://github.com/npm/cli/commit/bdb3c28167f757060474ef2b82c92f3a1f210972) [#7274](https://github.com/npm/cli/pull/7274) added check for dry-run (#7274) (@cod1r)
+* [`7f1ab88`](https://github.com/npm/cli/commit/7f1ab8822a8d50403338595ab9f218e4d63f37fa) [#7271](https://github.com/npm/cli/pull/7271) more lightweight npm bin discovery in windows (#7271) (@wraithgar)
+
+### Documentation
+
+* [`9807caf`](https://github.com/npm/cli/commit/9807cafbaf274eca2a0abbd04a9b2b55e850de9d) [#7304](https://github.com/npm/cli/pull/7304) update audit docs with provenance info (#7304) (@bdehamer)
+* [`e1ecfa7`](https://github.com/npm/cli/commit/e1ecfa7829be91282373862669b92ef42b9e48df) [#7285](https://github.com/npm/cli/pull/7285) Correct capitalization for URL (#7285) (@coliff)
+
+### Chores
+
+* [`0dab381`](https://github.com/npm/cli/commit/0dab3810e6b84e1b4afcc2a315c878fffccb328b) [#7258](https://github.com/npm/cli/pull/7258) `jsdom@24.0.0` (#7258) (@wraithgar)
+* [`af3c48e`](https://github.com/npm/cli/commit/af3c48e074d03caebaa8ed24d39405329f545497) [#7262](https://github.com/npm/cli/pull/7262) test refactor (#7262) (@wraithgar)
+
 ## [10.5.0](https://github.com/npm/cli/compare/v10.4.0...v10.5.0) (2024-02-28)
 
 ### Features
