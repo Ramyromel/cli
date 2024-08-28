@@ -33,7 +33,7 @@
     "@npmcli/eslint-config": "^4.0.0",
     "@npmcli/mock-globals": "^1.0.0",
     "@npmcli/template-oss": "4.21.3",
-    "tap": "^16.3.8"
+    "tap": "^18.0.0"
   },
   "dependencies": {
     "@npmcli/map-workspaces": "^3.0.2",
