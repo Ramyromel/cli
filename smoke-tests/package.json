@@ -24,7 +24,7 @@
     "@npmcli/template-oss": "4.21.3",
     "proxy": "^2.1.1",
     "semver": "^7.5.4",
-    "tap": "^18.0.0",
+    "tap": "^20.0.0",
     "which": "^4.0.0"
   },
   "author": "GitHub Inc.",
