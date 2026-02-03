@@ -16,9 +16,9 @@
   },
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.0",
-    "@npmcli/template-oss": "4.21.4",
+    "@npmcli/template-oss": "4.29.0",
     "nock": "^13.3.3",
-    "tap": "^18.0.0"
+    "tap": "^21.1.1"
   },
   "repository": {
     "type": "git",
@@ -32,7 +32,7 @@
   "homepage": "https://npmjs.com/package/libnpmteam",
   "dependencies": {
     "aproba": "^2.0.0",
-    "npm-registry-fetch": "^16.0.0"
+    "npm-registry-fetch": "^18.0.1"
   },
   "engines": {
     "node": "^16.14.0 || >=18.0.0"
