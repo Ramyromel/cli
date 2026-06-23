@@ -42,19 +42,19 @@
   },
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.0",
-    "@npmcli/template-oss": "4.21.3",
-    "tap": "^20.0.0"
+    "@npmcli/template-oss": "4.29.0",
+    "tap": "^21.1.1"
   },
   "dependencies": {
-    "@npmcli/arborist": "^7.2.1",
+    "@npmcli/arborist": "^9.0.0",
     "@npmcli/disparity-colors": "^3.0.0",
     "@npmcli/installed-package-contents": "^2.0.2",
     "binary-extensions": "^2.2.0",
     "diff": "^5.1.0",
     "minimatch": "^9.0.0",
     "npm-package-arg": "^11.0.1",
-    "pacote": "^17.0.4",
-    "tar": "^6.2.0"
+    "pacote": "^21.0.1",
+    "tar": "^7.5.7"
   },
   "templateOSS": {
     "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
