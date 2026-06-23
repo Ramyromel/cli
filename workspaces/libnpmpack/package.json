@@ -23,10 +23,10 @@
   },
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.0",
-    "@npmcli/template-oss": "4.21.3",
+    "@npmcli/template-oss": "4.29.0",
     "nock": "^13.3.3",
     "spawk": "^1.7.1",
-    "tap": "^18.0.0"
+    "tap": "^21.1.1"
   },
   "repository": {
     "type": "git",
@@ -36,10 +36,10 @@
   "bugs": "https://github.com/npm/libnpmpack/issues",
   "homepage": "https://npmjs.com/package/libnpmpack",
   "dependencies": {
-    "@npmcli/arborist": "^7.2.1",
-    "@npmcli/run-script": "^7.0.2",
+    "@npmcli/arborist": "^9.0.0",
+    "@npmcli/run-script": "^9.0.2",
     "npm-package-arg": "^11.0.1",
-    "pacote": "^17.0.4"
+    "pacote": "^21.0.1"
   },
   "engines": {
     "node": "^16.14.0 || >=18.0.0"
