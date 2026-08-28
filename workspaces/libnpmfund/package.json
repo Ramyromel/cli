@@ -42,7 +42,7 @@
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.0",
     "@npmcli/template-oss": "4.21.4",
-    "tap": "^18.0.0"
+    "tap": "^21.7.5"
   },
   "dependencies": {
     "@npmcli/arborist": "^7.2.1"

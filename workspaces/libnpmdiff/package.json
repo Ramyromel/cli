@@ -50,11 +50,11 @@
     "@npmcli/disparity-colors": "^3.0.0",
     "@npmcli/installed-package-contents": "^2.0.2",
     "binary-extensions": "^2.2.0",
-    "diff": "^5.1.0",
-    "minimatch": "^9.0.0",
+    "diff": "^9.0.0",
+    "minimatch": "^10.2.6",
     "npm-package-arg": "^11.0.1",
-    "pacote": "^17.0.4",
-    "tar": "^6.2.0"
+    "pacote": "^22.0.0",
+    "tar": "^7.5.22"
   },
   "templateOSS": {
     "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
